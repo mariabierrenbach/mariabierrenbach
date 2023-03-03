@@ -10,5 +10,5 @@ Hello, world 👋
 
 😄 Pronouns: she/her
 
-Fun fact: I love mobile development.
+🌈 Fun fact: I love mobile development.
 
